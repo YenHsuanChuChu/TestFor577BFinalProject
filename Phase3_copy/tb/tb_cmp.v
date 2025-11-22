@@ -464,7 +464,6 @@ dmem DM_node15 (
     .dataIn     (node15_d_out),           // 64-bit data to data-memory
     .dataOut    (node15_d_in)             // 64-bit data from data-memory
 );
-
 	
 cardinal_cmp CMP(
 	.clk(CLK),
