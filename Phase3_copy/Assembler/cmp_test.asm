@@ -1,0 +1,17 @@
+VAND r3, r1, r2
+VOR r31, r7, r3
+VXOR r30, r7, r4
+VNOT r29, r5
+VMOV r28, r6
+VADD r27, r7, r1
+VSUB r26, r8, r2
+VMULEU r25, r9, r3
+VSLL r23, r11, r5
+VSRL r22, r12, r6
+VSRA r21, r13, r7
+VRTTH r20, r14
+VDIV r19, r15, r8
+VMOD r18, r16, r9
+VSQEU r17, r17
+VSQOU r16, r18
+VSQRT r15, r19
